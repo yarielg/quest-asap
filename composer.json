@@ -1,0 +1,17 @@
+{
+    "name": "yariel/yariko",
+    "description": "Creating my first plugin in wordpress",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yariko",
+            "email": "yariko0529@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Inc\\": "./inc" }
+    }
+}
