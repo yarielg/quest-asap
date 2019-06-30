@@ -1,6 +1,6 @@
 {
     "name": "yariel/yariko",
-    "description": "Creating my first plugin in wordpress",
+    "description": "Plugin to integrate SAP B1 with woocommerce, oriented to B2B Business Model, Although you can use it in B2C as well",
     "type": "project",
     "license": "MIT",
     "authors": [
